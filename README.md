@@ -3,6 +3,10 @@ Crop price prediction in Agriculture field is very usefull to formers
 
 ## Import Required Packages
 ## Loading Dataset
+- Temperature - temperature in degree Celsius
+- Humidity - relative humidity in %
+- pH_Value - pH value of the soil
+- Rainfall - rainfall in mm
 ## Data Analysis
 ### Find the trends and patterns in the dataset
 ### Shape, Size, Datatsype
